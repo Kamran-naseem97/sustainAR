@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=6gYEE2fnPK4
+https://www.youtube.com/watch?v=6gYEE2fnPK4
+https://www.youtube.com/watch?v=6gYEE2fnPK4
+
 # ML Kit AutoML Remote Model Quickstart Sample App
 
 * [Read more about training an image classification model using AutoML Vision Edge model](https://firebase.google.com/docs/ml/automl-image-labeling)
