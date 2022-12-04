@@ -1,6 +1,6 @@
-https://www.youtube.com/watch?v=6gYEE2fnPK4
-https://www.youtube.com/watch?v=6gYEE2fnPK4
-https://www.youtube.com/watch?v=6gYEE2fnPK4
+https://www.youtube.com/watch?v=6gYEE2fnPK4 <br />
+https://www.youtube.com/watch?v=6gYEE2fnPK4 <br />
+https://www.youtube.com/watch?v=6gYEE2fnPK4 <br />
 
 # ML Kit AutoML Remote Model Quickstart Sample App
 
